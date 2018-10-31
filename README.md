@@ -7,6 +7,10 @@
 关于权限的问题，可以看我的一篇文章：https://www.jianshu.com/p/52795b5dab3a  
 项目里面的权限判断使用的是朋友封装好的库，很方便，一句代码搞定 
 
+网上关于 Android 集成 FFmpeg 的文章很多，但大多数都只介绍了步骤，这里推荐几篇文章给大家
+[Android 集成 FFmpeg (一) 基础知识及简单调用](https://blog.csdn.net/yhaolpz/article/details/76408829)
+[Android 集成 FFmpeg (二) 以命令方式调用 FFmpeg](https://blog.csdn.net/yhaolpz/article/details/77146156)
+[Android 集成 FFmpeg (三) 获取 FFmpeg 执行进度](https://blog.csdn.net/yhaolpz/article/details/77146156)
 
 ```
     /**
