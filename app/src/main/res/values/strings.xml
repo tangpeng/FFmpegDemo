@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FFmpegAndroidDemo</string>
+
+    <string name="compress_failed">压缩失败,原因: %1$s</string>
+    <string name="compress_progress">进度: %1$s</string>
+    <string name="compress_result_input_output">input:%1$s,size:%2$s,output:%3$s,size:%4$s</string>
+
+</resources>
