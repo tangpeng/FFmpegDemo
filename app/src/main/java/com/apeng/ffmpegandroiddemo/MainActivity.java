@@ -26,7 +26,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /**
- *  @dec  首页
+ *  @dec  https://github.com/tangpeng/FFmpegDemo
  *  @author apeng
  *  @date  2018/10/31 11:31
  */
@@ -338,7 +338,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     /**
      * @dec 一句代码搞定权限问题
-     * @author tangxiaopeng
+     * @author apeng
      * @date 2018/10/31 10:54
      */
     public void getPermissions() {
@@ -355,6 +355,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                     }
                 });
-
     }
 }
